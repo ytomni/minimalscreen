@@ -8,11 +8,8 @@ weight = 1
 
 Hi, I'm **KS**. This site was created to assist myself and others on how to minimize screen time, digital footprints and increase privacy in the digital world.
 
-## 
+---
+## Why?
+The largest tech companies do not want you to be free. They want all your attention, they **NEED** your attention to stay in business. Without you, the consumer they will not make any money. That's why it's important for you to realize that you need to stop giving them what they want. 
 
-If you're one of the many people starting your interest in minimizing your digital footprint, reduce screen time then I hope you find my website useful.
-
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Thank you [Jan Raasch](https://www.janraasch.com/) for providing a fantastic theme.
+That is why this site will be about decreasing your usage of social media, screen time, and, regaining privacy. 
