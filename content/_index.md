@@ -6,7 +6,7 @@ weight = 1
 
 # Introduction
 
-Hi, I'm **KS**. This site was created to assist myself and others on how to minimize screen time, digital footprints and increase privacy in the digital world.
+Hello, I'm **KS**. I created this tiny site to help others decrease their social media presence, and regain control over your data. I hope you find some of it useful!
 
 ---
 ## Privacy
