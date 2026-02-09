@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Minimalscreen</title>
+    <title>blog on Minimalscreen</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blog on Minimalscreen</description>
+    <description>Recent content in blog on Minimalscreen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright © 2026, KS.</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;In todays digital age it is important to stay private, you shouldn&amp;rsquo;t blindly register on sites you do not need, you shouldn&amp;rsquo;t accept that most corporations use your data to learn everything about you, so they can serve ads that are targeted directly at you. To adjust prices based on your phone, location, or age.&lt;/p&gt;&#xA;&lt;p&gt;If you have a Google account this is what they will know about you:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email address&lt;/li&gt;&#xA;&lt;li&gt;Current location&lt;/li&gt;&#xA;&lt;li&gt;Name&lt;/li&gt;&#xA;&lt;li&gt;All your emails&lt;/li&gt;&#xA;&lt;li&gt;Every website you visit&lt;/li&gt;&#xA;&lt;li&gt;Every ad you click on&lt;/li&gt;&#xA;&lt;li&gt;What videos you watch&lt;/li&gt;&#xA;&lt;li&gt;IP address&lt;/li&gt;&#xA;&lt;li&gt;Where you work&lt;/li&gt;&#xA;&lt;li&gt;What you search for&lt;/li&gt;&#xA;&lt;li&gt;and more&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I&amp;rsquo;m sure you have a Facebook account, instagram account as well (similar to Google):&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Markdown Syntax Guide</title>
       <link>http://localhost:1313/markdown-syntax-guide/</link>
